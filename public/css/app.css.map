@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/home.scss","app.scss"],"names":[],"mappings":"AAAA;EACI,WAAU,EACb;;ACAD;EACI,kBAAiB,EACpB;;AAED;EACI,iBAAgB,EACnB","file":"app.css","sourcesContent":[".home {\n    color:red;\n}\n\n","@import'pages/home';\n\nbody {\n    padding-top:40px;\n}\n\nbody, label, .checkbox label {\n    font-weight:300;\n}"]}

@@ -1,0 +1,18 @@
+.home {
+  color: red; }
+
+body {
+  padding: 80px;
+  font-family: Roboto;
+}
+
+body, label, .checkbox label {
+  font-weight: 300; }
+
+.form-delete {
+    margin-top:15px;
+}
+
+.quote {margin-top: 30px;}
+
+/*# sourceMappingURL=app.css.map */
